@@ -1,9 +1,11 @@
 ### Hi there 👋, My name is Oğuz Kaan Akyalçın
 ![](https://github.com/kaanakyalcin/kaanakyalcin/blob/main/developer_banner.png)
 
-I am a full-stack software developer.
+I am a full-stack software developer from Istanbul/Turkey.
 
-Skills: MS Power Platform | C# | .NET | Flutter | Angular
+##Skills: 
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 - 🔭 I’m currently working at Codec Ireland 
 - 📫 How to reach me: kaan.akyalcin@outlook.com 
