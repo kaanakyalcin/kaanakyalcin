@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ## I am Oğuz Kaan Akyalçın
 
 | <a href="https://github.com/kaanakyalcin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaanakyalcin&show_icons=true&include_all_commits=true&theme=cobalt2&hide_border=true" /></a> | <a href="https://github.com/kaanakyalcin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanakyalcin&layout=compact&theme=cobalt2&hide_border=true" /></a> |
 | ------------- | ------------- |
