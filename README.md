@@ -19,7 +19,7 @@ Skills: MS Power Platform | C# | .NET | Flutter | Angular
 | <a href="https://github.com/kaanakyalcin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaanakyalcin&show_icons=true&include_all_commits=true&theme=cobalt2&hide_border=true" /></a> | <a href="https://github.com/kaanakyalcin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanakyalcin&layout=compact&theme=cobalt2&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/kaanakyalcin)
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 <!--
 **kaanakyalcin/kaanakyalcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
