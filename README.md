@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Oğuz Kaan Akyalçın
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/kaanakyalcin/kaanakyalcin/blob/main/developer_banner.png)
 
 I am a full-stack software developer.
 
