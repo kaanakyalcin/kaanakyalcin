@@ -9,7 +9,7 @@ I am a full-stack software developer from Istanbul/Turkey.
 
 Also,
 
-[![My Skills](https://skillicons.dev/icons?i=azure,dotnet,flutter,angular,solidity&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,dotnet,flutter,angular,solidity&perline=5)](https://skillicons.dev)
 
 - 🔭 I’m currently working at Codec Ireland 
 - 📫 How to reach me: kaan.akyalcin@outlook.com 
