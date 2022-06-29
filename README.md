@@ -3,7 +3,7 @@
 
 I am a full-stack software developer from Istanbul/Turkey.
 
-##Skills: 
+## Skills: 
 
 - Microsoft Power Platform
 
