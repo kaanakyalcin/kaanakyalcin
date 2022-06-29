@@ -5,7 +5,11 @@ I am a full-stack software developer from Istanbul/Turkey.
 
 ##Skills: 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+- Microsoft Power Platform
+
+Also,
+
+[![My Skills](https://skillicons.dev/icons?i=azure,dotnet,flutter,angular,solidity&perline=1)](https://skillicons.dev)
 
 - 🔭 I’m currently working at Codec Ireland 
 - 📫 How to reach me: kaan.akyalcin@outlook.com 
