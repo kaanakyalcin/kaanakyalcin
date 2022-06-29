@@ -12,7 +12,7 @@ I am mainly focusing on MS Power Platform solutions
   - Dynamics 365 applications
   - Power Automate
  
-Also, I am working for a fully supported application lifecyle with custom applications with 
+Also, I am working for a fully supported application lifecycle with custom applications with 
   - API integrations 
   - Mobile applications
   - Web applications
