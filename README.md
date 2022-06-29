@@ -1,4 +1,20 @@
-### Hi there 👋 ## I am Oğuz Kaan Akyalçın
+### Hi there 👋, My name is Oğuz Kaan Akyalçın
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am a full-stack software developer.
+
+Skills: MS Power Platform | C# | .NET | Flutter | Angular
+
+- 🔭 I’m currently working on Codec Ireland 
+- 📫 How to reach me: kaan.akyalcin@outlook.com 
+- 😄 Pronouns: He/Him/his 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kaanakyalcin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akyalcin//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/ouz_kaan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13064668/oguzkaanakyalcin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://wiseservices.co.uk/)  
+
+
+
+
 
 | <a href="https://github.com/kaanakyalcin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaanakyalcin&show_icons=true&include_all_commits=true&theme=cobalt2&hide_border=true" /></a> | <a href="https://github.com/kaanakyalcin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanakyalcin&layout=compact&theme=cobalt2&hide_border=true" /></a> |
 | ------------- | ------------- |
