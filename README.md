@@ -5,7 +5,7 @@ I am a full-stack software developer.
 
 Skills: MS Power Platform | C# | .NET | Flutter | Angular
 
-- 🔭 I’m currently working on Codec Ireland 
+- 🔭 I’m currently working at Codec Ireland 
 - 📫 How to reach me: kaan.akyalcin@outlook.com 
 - 😄 Pronouns: He/Him/his 
 
