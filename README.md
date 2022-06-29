@@ -23,7 +23,7 @@ Also, I am working for a fully supported application lifecyle with custom applic
 
 Also,
 
-[![My Skills](https://skillicons.dev/icons?i=azure,dotnet,flutter,angular,solidity&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,dotnet,flutter,angular,solidity&perline=5)](https://github.com/kaanakyalcin)
 
 ### Personal:
 
