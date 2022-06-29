@@ -1,9 +1,23 @@
-### Hi there 👋, My name is Oğuz Kaan Akyalçın
+## Hi there 👋, 
+
+### My name is Oğuz Kaan Akyalçın
+
 ![](https://github.com/kaanakyalcin/kaanakyalcin/blob/main/developer_banner.png)
 
 I am a full-stack software developer from Istanbul/Turkey.
 
-## Skills: 
+I am mainly focusing on MS Power Platform solutions 
+  - Model Driven App 
+  - Canvas App 
+  - Dynamics 365 applications
+  - Power Automate
+ 
+Also, I am working for a fully supported application lifecyle with custom applications with 
+  - API integrations 
+  - Mobile applications
+  - Web applications
+
+### Skills: 
 
 - Microsoft Power Platform
 
@@ -11,10 +25,15 @@ Also,
 
 [![My Skills](https://skillicons.dev/icons?i=azure,dotnet,flutter,angular,solidity&perline=5)](https://skillicons.dev)
 
+### Personal:
+
 - 🔭 I’m currently working at Codec Ireland 
 - 📫 How to reach me: kaan.akyalcin@outlook.com 
 - 😄 Pronouns: He/Him/his 
+- ⚡ Fun fact: FENERBAHCE
 
+
+#### Feel free to contact me below channels
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kaanakyalcin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akyalcin//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/ouz_kaan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13064668/oguzkaanakyalcin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://wiseservices.co.uk/)  
 
