@@ -31,6 +31,7 @@ Also,
 - 📫 How to reach me: kaan.akyalcin@outlook.com 
 - 😄 Pronouns: He/Him/his 
 - ⚡ Fun fact: FENERBAHCE
+- 🌐 Personal Blog: www.wiseservices.co.uk
 
 
 #### Feel free to contact me below channels
