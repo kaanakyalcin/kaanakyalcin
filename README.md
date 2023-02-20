@@ -13,7 +13,7 @@
 
 ### Glad to see you here!
 
-<img align="right" alt="Gif" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" width="400" />
+<img align="right" alt="Gif" src="https://github.com/kaanakyalcin/kaanakyalcin/blob/main/coding.gif" width="400" />
 
 I am a full-stack software developer from Istanbul/Turkey.
 
