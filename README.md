@@ -4,7 +4,12 @@
 
 ![](https://github.com/kaanakyalcin/kaanakyalcin/blob/main/developer_banner.png)
 
-![](https://komarev.com/ghpvc/?username=kaanakyalcin)
+[![Profile views](https://komarev.com/ghpvc/?username=kaanakyalcin&style=flat-square)](https://github.com/kaanakyalcin)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/akyalcin)
+[![Blog Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://wiseservices.co.uk/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ouz_kaan)
+
+<br/>
 I am a full-stack software developer from Istanbul/Turkey.
 
 I am mainly focusing on MS Power Platform solutions 
