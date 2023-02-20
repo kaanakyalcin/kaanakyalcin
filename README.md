@@ -10,6 +10,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ouz_kaan)
 
 <br/>
+
+### Glad to see you here!
+
+<img align="right" alt="Gif" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" width="400" />
+
 I am a full-stack software developer from Istanbul/Turkey.
 
 I am mainly focusing on MS Power Platform solutions 
