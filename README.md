@@ -4,6 +4,7 @@
 
 ![](https://github.com/kaanakyalcin/kaanakyalcin/blob/main/developer_banner.png)
 
+![](https://komarev.com/ghpvc/?username=kaanakyalcin)
 I am a full-stack software developer from Istanbul/Turkey.
 
 I am mainly focusing on MS Power Platform solutions 
