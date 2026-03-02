@@ -50,8 +50,8 @@ Also,
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kaanakyalcin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akyalcin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ouz_kaan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13064668/oguzkaanakyalcin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://wiseservices.co.uk/)  
 
 <a href="https://wiseservices.co.uk/">
-<img src="https://github.com/kaanakyalcin/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/kaanakyalcin/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/kaanakyalcin/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/kaanakyalcin/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
 
